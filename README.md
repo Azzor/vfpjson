@@ -1,3 +1,16 @@
+Now the properties can be any case, not just lowercase.
+Now empty arrays are shown like
+
+"otherServices": []
+
+When the arrays were empty they were shown like "array": {[false]}
+
+Thanks to Ignacio Gutierrez Torrero!
+Awesome program that you did!
+
+Hi from Hermosillo, Mexico!
+
+
 #VFPJSON
 JSON library for VFP.
 **WARNING** Too slow to used with large data
