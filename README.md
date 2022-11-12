@@ -1,15 +1,15 @@
-**Now the properties can be any case, not just lowercase.**
+- **Now the properties can be any case, not just lowercase.**
 
-**Now empty arrays are shown like**
+- **Now empty arrays are shown like**
 
 "otherServices": []
 
-**When the arrays were empty they were shown like**
+- **When the arrays were empty they were shown like**
 "array": {[false]}
 
-**Sometimes native VFP properties are unhidden from the JSON object and we shown in the JSON string**
+- **Sometimes native VFP properties are unhidden from the JSON object and we shown in the JSON string**
 
-*Thanks* to Ignacio Gutierrez Torrero!
+*Many thanks* to Ignacio Gutierrez Torrero!
 
 Awesome program that you did!
 
