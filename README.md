@@ -7,7 +7,7 @@
 - **When the arrays were empty they were shown like**
 "array": {[false]}
 
-- **Sometimes native VFP properties are unhidden from the JSON object and we shown in the JSON string**
+- **Sometimes native VFP properties are unhidden from the JSON object and were shown in the JSON string**
 
 *Many thanks* to Ignacio Gutierrez Torrero!
 
