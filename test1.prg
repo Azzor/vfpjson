@@ -1,4 +1,4 @@
-set proc to json additive
+set proc to jsonA additive
 
 * test table customer
 create cursor customers (id n(5), name c(50), lastname c(50), phone c(30))
