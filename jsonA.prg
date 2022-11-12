@@ -16,6 +16,39 @@
 * Thanks Google for the code in Json Dart
 * Gracias a Google por el codigo de Json de Dart
 *
+
+
+*!*	Modified by Jesus Garcia		2022 November 11
+*!*	delinius@gmail.com
+*!* +52(662)164-8393
+*!* 
+*!*	               "otherServices": {
+*!*	                   "otherServices": []
+*!*	               },
+*!*	               "shipmentDetail": {
+*!*	                   "shipments": [
+*!*	                       {
+*!*	                           "sequence": 1,
+
+*!*	Now the properties can be any case, not just lowercase.
+
+*!*	Now empty arrays are shown like
+
+*!*		"otherServices": []
+
+*!*	When the arrays were empty they were shown like "array": {[false]}
+
+*!*	Sometimes native VFP properties are unhidden from the JSON object and were shown in the JSON string
+
+*!*	Many thanks to Ignacio Gutierrez Torrero!
+
+*!*	Awesome program that you did!
+
+*!*	Hi from Hermosillo, Mexico!
+
+
+
+
 * json_encode(xExpr)
 * returns a string, that is the json of any expression passed
 *
